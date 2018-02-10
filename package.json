@@ -1,0 +1,14 @@
+{
+  "name": "jesting",
+  "version": "1.0.0",
+  "description": "Testing the CircleCI basics",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "TBR",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
